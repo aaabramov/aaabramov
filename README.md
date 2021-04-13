@@ -10,7 +10,7 @@
 
 ---
 
-<img align="left" alt="aaabramov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aaabramov&show_icons=true&hide_border=true" />
+<img align="left" alt="aaabramov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aaabramov&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
 <!--
 **aaabramov/aaabramov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
