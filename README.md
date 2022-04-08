@@ -3,9 +3,9 @@
 ---
 
 #### My open source projects:
-- [aaabramov/goal](https://github.com/aaabramov/goal) - secure aliases
+- [Typical dependencies for NestJS](https://gist.github.com/aaabramov/9d42b26e42c431364d08fadd706105fd) - Typical dependencies for NestJS
+- [aaabramov/goal](https://github.com/aaabramov/goal) - Secure aliases
 - [aaabramov/glogging](https://github.com/aaabramov/glogging) - Logback layout for Google Structured logging
-- [aaabramov/german-articles-bot](https://github.com/aaabramov/german-articles-bot) - bot to learn Das/Die/Der
 
 ---
 
