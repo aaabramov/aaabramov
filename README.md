@@ -11,6 +11,7 @@
 - [aaabramov/goal](https://github.com/aaabramov/goal) - Secure aliases
 - [aaabramov/glogging](https://github.com/aaabramov/glogging) - Logback layout for Google Structured logging
 - [Bootstrap TypeScript npm project](https://gist.github.com/aaabramov/ad1934c5740b018f172e6d82f629b105) - Bootstrap TypeScript npm project
+- [Gratus Bot](https://t.me/gratus_bot) - Telegram bot for reputation count in groups
 
 ---
 
